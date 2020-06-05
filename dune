@@ -1,0 +1,3 @@
+(executable
+ (name grtest2)
+ (libraries graphics))

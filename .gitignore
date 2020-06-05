@@ -2,3 +2,4 @@
 .vscode
 _build
 *.native
+.merlin
